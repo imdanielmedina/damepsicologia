@@ -5,14 +5,14 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Daniel Medina'
-    content: >+
+    content: >
+      ![](/images/44516115\_249630572376096\_6089936827573264280\_n.jpg)
+
+
       I am studying eighth semester of **psychology** and I would like to carry
       out a professional internship in your organization, but I understand that
       you aren´t going to work with a stranger, so this portfolio has been
-      created especially for you to get to know me. 
-
-
-
+      created especially for you to get to know me.
   - section_id: about
     type: section_content
     title: About me
