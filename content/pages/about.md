@@ -37,8 +37,4 @@ I am a Colombian citizen, I have been preparing for the last 20 years to present
 
 I am a psychologist in training at the Santo Tomás University, I am a technician in Business Consulting graduated from SENA, I am currently studying Digital Marketing at Platzi, I have 4 English certifications at SENA and 4 at Platzi English Academy. Finally, I am going to do professional internships in the clinical area of psychology and if you are reading this it is because I sent you my CV and I would like to work with you.
 
-## **Other Skills**
-
-I
-
 *Thank You for reading!*
