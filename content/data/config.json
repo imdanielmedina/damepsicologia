@@ -64,6 +64,17 @@
             }
         ]
     },
-    "footer": {},
+    "footer": {
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
+    },
     "domain": "https://magenta-mars-9975d.netlify.app"
 }
