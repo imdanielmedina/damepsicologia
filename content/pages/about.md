@@ -33,8 +33,7 @@ subtitle: Who i am?
 ---
 I am a Colombian citizen, I have been preparing for the last 20 years to present something interesting to you in this moment in which you are reading about me, so I will start by saying that I am "a student of everything", I like to constantly learn and I consider that I chose the correct university career, since in psychology I can find new things every day and continue to learn in a practical and holistic way
 
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+> I am a psychologist in training at the Santo Tomás University, I am a technician in Business Consulting graduated from SENA, I am currently studying Digital Marketing at Platzi, I have 4 English certifications at SENA and 4 at Platzi English Academy. Finally, I am going to do professional internships in the clinical area of psychology and if you are reading this it is because I sent you my CV and I would like to work with you 
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
