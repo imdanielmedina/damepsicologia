@@ -6,7 +6,7 @@
     "header": {
         "title": "Daniel Medina",
         "tagline": "Portafolio de psicología",
-        "profile_img": "images/avatar.png",
+        "profile_img": "/images/perfil.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
