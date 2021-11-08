@@ -15,7 +15,7 @@ sections:
 
   - section_id: about
     type: section_content
-    title: About
+    title: About me
     content: >+
       I am a Colombian citizen, I have been preparing for the last 20 years to
       present something interesting to you in this moment in which you are
