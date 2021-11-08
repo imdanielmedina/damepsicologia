@@ -16,11 +16,14 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      I am a Colombian citizen, I have been preparing for the last 20 years to
+      present something interesting to you in this moment in which you are
+      reading about me, so I will start by saying that I am "a student of
+      everything", I like to constantly learn and I consider that I chose the
+      correct university career, since in psychology I can find new things every
+      day and continue to learn in a practical and holistic way 
+
     actions:
       - label: Contact Me
         url: /contact
