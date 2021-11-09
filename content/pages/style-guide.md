@@ -58,7 +58,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 *   Vivamus convallis urna id felis
 *   Nulla porta tempus sapien
 
-# Soft Skills
+# Technical knowledge
 
 *   Donec non tortor in arcu mollis feugiat
 
