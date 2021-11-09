@@ -57,18 +57,16 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 *   Donec id eros eget quam aliquam gravida
 *   Vivamus convallis urna id felis
 *   Nulla porta tempus sapien
+*   fghjhffg
 
-# Technical knowledge
+Solf Skills
 
-*   Donec non tortor in arcu mollis feugiat
-
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-
-*   Donec id eros eget quam aliquam gravida
-
-*   Vivamus convallis urna id felis
-
-*   Nulla porta tempus sapien
+*   gdhyfgrr
+*   dghfhyg
+*   effeyythtg
+*   efegeygth
+*   rhtjhhgt
+*   ryggggy
 
 ## Code Blocks
 
