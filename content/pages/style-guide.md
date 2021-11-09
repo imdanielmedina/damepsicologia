@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Below are the main technical and soft skills that I have developed in my comprehensive training as a professional, which can be useful in fulfilling tasks related to psychological discipline 
+### Below are the main technical and soft skills that I have developed in my comprehensive training as a professional, which can be useful in fulfilling tasks related to psychological discipline
 
 # This is an H1
 
