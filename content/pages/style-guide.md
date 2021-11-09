@@ -1,9 +1,9 @@
 ---
 title: SKILLS
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  Below are the main technical and soft skills that I have developed in my
+  comprehensive training as a professional, which can be useful in fulfilling
+  tasks related to psychological discipline
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
