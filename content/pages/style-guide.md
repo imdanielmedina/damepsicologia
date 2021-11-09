@@ -68,17 +68,6 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 *   rhtjhhgt
 *   ryggggy
 
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-    <!-- Some example CSS code -->
-    body {
-      color: #333;
-      font-family: Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.5;
-    }
-
 ## Video Embeds
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
