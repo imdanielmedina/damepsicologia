@@ -34,7 +34,7 @@ layout: page
 ---
 #### Below are the main technical and soft skills that I have developed in my comprehensive training as a professional, which can be useful in fulfilling tasks related to psychological discipline
 
-# This is an H1
+# Planning
 
 Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
 
