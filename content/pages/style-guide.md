@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum s
 
 Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
 
-## Unordered Lists
+# Technical knowledge
 
 *   Donec non tortor in arcu mollis feugiat
 *   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
@@ -58,13 +58,17 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 *   Vivamus convallis urna id felis
 *   Nulla porta tempus sapien
 
-## Ordered Lists
+# Soft Skills
 
-1.  Donec non tortor in arcu mollis feugiat
-2.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3.  Donec id eros eget quam aliquam gravida
-4.  Vivamus convallis urna id felis
-5.  Nulla porta tempus sapien
+*   Donec non tortor in arcu mollis feugiat
+
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+
+*   Donec id eros eget quam aliquam gravida
+
+*   Vivamus convallis urna id felis
+
+*   Nulla porta tempus sapien
 
 ## Code Blocks
 
