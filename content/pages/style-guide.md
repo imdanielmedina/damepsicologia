@@ -1,9 +1,5 @@
 ---
 title: SKILLS
-subtitle: >-
-  Below are the main technical and soft skills that I have developed in my
-  comprehensive training as a professional, which can be useful in fulfilling
-  tasks related to psychological disciplin
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
