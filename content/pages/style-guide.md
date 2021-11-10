@@ -48,16 +48,16 @@ I have knowledge in family and couples therapy applied to the clinical area and 
 
 # Professional ethics
 
-I know the Colombian legal regulations for the practice of psychology, which is contained in law 1090 of 2006, resolution 8430 of 1993 and law 1581 of 2012 (Habeas Data). 
+I know the Colombian legal regulations for the practice of psychology, which is contained in law 1090 of 2006, resolution 8430 of 1993 and law 1581 of 2012 (Habeas Data).
 
 # Technical knowledge
 
-*   Donec non tortor in arcu mollis feugiat
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-*   Donec id eros eget quam aliquam gravida
-*   Vivamus convallis urna id felis
-*   Nulla porta tempus sapien
-*   fghjhffg
+*   Research capacity
+*   Scientific knowledge of the discipline 
+*   Knowledge of higher order mental functions 
+*   Biopsychosocial understanding of the person 
+*   Basic neuroscience knowledge 
+*   Knowledge of the psychology of human development 
 
 # Solf Skills
 
