@@ -36,11 +36,11 @@ layout: page
 
 # Planning
 
-The clinical and health psychology requires that the professional have the ability to develop strategic and systematized plans for research, evaluation, intervention, and promotion and prevention projects. 
+The clinical and health psychology requires that the professional have the ability to develop strategic and systematized plans for research, evaluation, intervention, and promotion and prevention projects.
 
 # Evaluation
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+The knowledge of my training allows me to carry out psychological evaluation processes to recognize the nature of the problems that patients present and formulate an effective ABC's (Antecedent, Behavior, Consequence). In addition, I have the ability to use psychological evaluation tools such as systematic observation, interviews, self-registration and the application of psychometric tests. 
 
 # Intervention
 
