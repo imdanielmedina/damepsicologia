@@ -40,11 +40,11 @@ The clinical and health psychology requires that the professional have the abili
 
 # Evaluation
 
-The knowledge of my training allows me to carry out psychological evaluation processes to recognize the nature of the problems that patients present and formulate an effective ABC's (Antecedent, Behavior, Consequence). In addition, I have the ability to use psychological evaluation tools such as systematic observation, interviews, self-registration and the application of psychometric tests. 
+The knowledge of my training allows me to carry out psychological evaluation processes to recognize the nature of the problems that patients present and formulate an effective ABC's (Antecedent, Behavior, Consequence). In addition, I have the ability to use psychological evaluation tools such as systematic observation, interviews, self-registration and the application of psychometric tests.
 
 # Intervention
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+I have knowledge in family and couples therapy applied to the clinical area and I did a psychological first aid course in Platzi 
 
 # Professional ethics
 
