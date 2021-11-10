@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-#### Below are the main technical and soft skills that I have developed in my comprehensive training as a professional, which can be useful in fulfilling tasks related to psychological discipline
+#### Below are the main technical and soft skills that I have developed in my comprehensive training as a professional, which can be useful in fulfilling tasks related to psychological discipline.
 
 # Planning
 
@@ -44,7 +44,7 @@ The knowledge of my training allows me to carry out psychological evaluation pro
 
 # Intervention
 
-I have knowledge in family and couples therapy applied to the clinical area and I did a psychological first aid course in Platzi 
+I have knowledge in family and couples therapy applied to the clinical area and I did a psychological first aid course in Platzi.
 
 # Professional ethics
 
