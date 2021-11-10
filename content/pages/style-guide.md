@@ -44,7 +44,7 @@ The knowledge of my training allows me to carry out psychological evaluation pro
 
 # Intervention
 
-I have knowledge in family and couples therapy applied to the clinical area, I also did a psychological first aid course and a course on anxiety management at Platzi. 
+I have knowledge in family and couples therapy applied to the clinical area, I also did a psychological first aid course and a course on anxiety management at Platzi.
 
 # Professional ethics
 
@@ -58,21 +58,21 @@ I know the Colombian legal regulations for the practice of psychology, which is 
 *   Biopsychosocial understanding of the person
 *   Basic neuroscience knowledge
 *   Knowledge of the psychology of human development
-*   Use of technological tools 
+*   Use of technological tools
 
 # Solf Skills
 
 *   Active listening
-*   Effective communication skills 
+*   Effective communication skills
 *   Problem resolution
 *   Conflict management
 *   Empathy
-*   Emotional intelligence 
-*   Leadership 
+*   Emotional intelligence
+*   Leadership
 
 ## Video Embeds
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
