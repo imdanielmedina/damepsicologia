@@ -36,7 +36,7 @@ layout: page
 
 # Planning
 
-The clinical and health psychology requires the professional to have the ability to develop strategic plans for research, evaluation, intervention, and promotion and prevention projects. 
+### The clinical and health psychology requires the professional to have the ability to develop strategic plans for research, evaluation, intervention, and promotion and prevention projects.
 
 # Evaluation
 
