@@ -48,7 +48,7 @@ I have knowledge in family and couples therapy applied to the clinical area and 
 
 # Professional ethics
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+I know the Colombian legal regulations for the practice of psychology, which is contained in law 1090 of 2006, resolution 8430 of 1993 and law 1581 of 2012 (Habeas Data). 
 
 # Technical knowledge
 
