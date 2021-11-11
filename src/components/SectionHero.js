@@ -24,3 +24,4 @@ export default class SectionHero extends React.Component {
             </section>
         );
     }
+}
