@@ -33,6 +33,22 @@ sections:
       ###### ![](/images/Danielmedina.png)
     actions: []
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
