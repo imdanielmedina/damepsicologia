@@ -71,4 +71,3 @@ I know the Colombian legal regulations for the practice of psychology, which is 
 *   Leadership
 
 ## Video Dream in mid-adulthood 
-https://www.youtube.com/watch?v=EdmllRhUAcE
