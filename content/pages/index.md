@@ -38,7 +38,13 @@ sections:
     content: |+
       ## Classical conditioning exercise
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
     type: section_content
 seo:
   title: Stackbit Fresh Theme
