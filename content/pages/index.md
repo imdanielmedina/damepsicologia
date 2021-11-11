@@ -33,6 +33,11 @@ sections:
       ###### ![](/images/Danielmedina.png)
     actions: []
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
