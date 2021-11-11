@@ -36,7 +36,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |+
-      ## Classical conditioning exercise 
+      ## Classical conditioning exercise
 
     actions: []
     type: section_content
