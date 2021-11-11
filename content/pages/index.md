@@ -38,18 +38,7 @@ sections:
     content: |+
       ## Classical conditioning exercise
 
-    actions:
-      - label: >-
-          <iframe width="853" height="480"
-          src="https://www.youtube.com/embed/kRz5F05XG00" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
+    actions: []
     type: section_content
 seo:
   title: Stackbit Fresh Theme
