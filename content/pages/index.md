@@ -33,13 +33,6 @@ sections:
       ###### ![](/images/Danielmedina.png)
     actions: []
     type: section_hero
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |+
-      ## Classical conditioning exercise
-
-    actions: []
-    type: section_content
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
