@@ -33,15 +33,6 @@ sections:
       ###### ![](/images/Danielmedina.png)
     actions: []
     type: section_hero
-  - title: >-
-      <iframe width="853" height="480"
-      src="https://www.youtube.com/embed/kRz5F05XG00" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    section_id: lorem-ipsum
-    posts_number: 0
-    actions: []
-    type: section_posts
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
