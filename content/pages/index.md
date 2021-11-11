@@ -33,8 +33,7 @@ sections:
       ###### ![](/images/Danielmedina.png)
     actions: []
     type: section_hero
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
